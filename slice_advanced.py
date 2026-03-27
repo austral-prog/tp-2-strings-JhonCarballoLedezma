@@ -3,3 +3,9 @@ def slice_advanced():
     en adelante, tomando uno de cada dos (paso 2).
     """
     pass
+    texto=input("ingrese texto: ")
+    texto_lee= texto[4::2]
+    print(texto_lee)
+
+if __name__ == '__main__':
+    slice_advanced()
