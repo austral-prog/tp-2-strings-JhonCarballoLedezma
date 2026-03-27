@@ -7,5 +7,4 @@ def slice_advanced():
     texto_lee= texto[4::2]
     print(texto_lee)
 
-if __name__ == '__main__':
-    slice_advanced()
+slice_advanced()

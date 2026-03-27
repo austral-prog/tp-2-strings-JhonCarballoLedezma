@@ -13,5 +13,5 @@ def rectangle():
     print(f"Area: {area}")
     print(f"Perimetro: {perimetro}")
 
-if __name__ == '__main__':
-    rectangle()
+
+rectangle()

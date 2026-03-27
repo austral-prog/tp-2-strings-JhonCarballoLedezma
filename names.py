@@ -16,5 +16,4 @@ def names():
     print(name_upper)
     print(name_tab)
 
-if __name__ == '__main__':
-    names()
+names()

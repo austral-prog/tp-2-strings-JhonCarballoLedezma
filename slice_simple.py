@@ -10,5 +10,5 @@ def slice_simple():
     print(texto_2_4)
     print(texto_lower)
     
-if __name__ == '__main__':
-    slice_simple()
+
+slice_simple()

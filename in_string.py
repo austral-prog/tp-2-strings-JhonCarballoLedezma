@@ -17,5 +17,5 @@ def check_vowels():
     print(f"Contiene o: {contiene_o}")
     print(f"Contiene u: {contiene_u}")
 
-if __name__ == '__main__':
-    check_vowels()
+
+check_vowels()

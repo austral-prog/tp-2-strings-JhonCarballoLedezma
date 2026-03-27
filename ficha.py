@@ -53,5 +53,5 @@ def ficha():
     print("Promedio entero:", int((int(tres_notas[0]) + int(tres_notas[1]) + int(tres_notas[2]))/3))
     print("="*24)
 
-if __name__ == '__main__':
-    ficha()
+
+ficha()

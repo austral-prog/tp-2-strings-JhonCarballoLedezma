@@ -11,5 +11,4 @@ def casting():
     total = precio_descuento * cantidad
     print("Total: " + str(total))
     
-if __name__ == '__main__':
-    casting()
+casting()

@@ -16,5 +16,4 @@ def string_info():
     adorno= f"***{palabra}***"
     print(f"Decorada: {adorno}")
 
-if __name__ == '__main__':
-    string_info()
+string_info()

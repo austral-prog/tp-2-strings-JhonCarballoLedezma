@@ -47,5 +47,5 @@ def string_methods():
     print(line_2)
     print(line_3)
 
-if __name__ == '__main__':
-    string_methods()
+
+string_methods()

@@ -20,5 +20,5 @@ def change():
     centavos = round((vuelto - pesos) * 100 )
     print("Centavos:")
     print(centavos)
-if __name__ == '__main__':
-    change()
+
+change()
