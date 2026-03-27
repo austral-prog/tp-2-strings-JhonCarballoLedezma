@@ -20,7 +20,7 @@ def string_methods():
     contar_a = frase.count("a")
     palabra_esta1 = "Python" in frase
     palabra_esta2 = "Java" in frase
-    extraer = f"{"Python"}"
+    extraer = f"{'Python'}"
     caracter_no_contiguo_python= f"{frase [0:6:2]}"
     caracter_inverso_python= f"{frase[5::-1]}"
     formato= f"{nombre_sin_espacio} sabe {extraer}"
