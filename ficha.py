@@ -38,7 +38,7 @@ def ficha():
     print("Nombre:", nombre_completo.title())
     print("Email:", email.lower())
     print("Caracteres en nombre:", len(nombre_completo))
-    print("Iniciales:", f"{nombre_completo[0].upper()}{nombre_completo[nombre_completo.find('')+1].upper()}", )
+    print("Iniciales:", f"{nombre_completo[0].upper()}{nombre_completo[nombre_completo.find('')+1].upper()}" )
     print("Usuario:", f"{(nombre_completo[nombre_completo.find('')+1:]).lower()}.{(nombre_completo[0:nombre_completo.find('')]).lower()}")
     print("Email valido:", "@" in email)
     print("Dominio:", email.lower()[email.find("@")+1:])
