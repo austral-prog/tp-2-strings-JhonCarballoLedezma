@@ -21,7 +21,7 @@ def change():
     print("Centavos:")
     print(centavos)
     '''
-    gasto = float(input ("ingrese el gasto: "))
+    gasto = float(input ("ingrese el gasto:"))
     mensaje_1 = f"Ingresar gasto: \n{gasto}"
     dinero_recibido = int(input("ingrese el dinero recibido: "))
     mensaje_2 = f"Dinero recibido\n{dinero_recibido}"
