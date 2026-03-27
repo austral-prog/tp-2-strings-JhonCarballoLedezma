@@ -23,7 +23,7 @@ def string_methods():
     # extraer = f"{'''Python'''}"
     caracter_no_contiguo_python= f"{frase [0:6:2]}"
     caracter_inverso_python= f"{frase[5::-1]}"
-    formato= f"{nombre_sin_espacio} sabe {extraer}"
+    formato= f"{nombre_sin_espacio} sabe Python" 
     line_1= multilinea[0:7]
     line_2= multilinea[12:19]
     line_3= multilinea[24:31]
