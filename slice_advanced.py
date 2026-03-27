@@ -7,4 +7,4 @@ def slice_advanced():
     texto_lee= texto[4::2]
     print(texto_lee)
 
-slice_advanced()
+#slice_advanced()

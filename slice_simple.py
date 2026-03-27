@@ -11,4 +11,4 @@ def slice_simple():
     print(texto_lower)
     
 
-slice_simple()
+#slice_simple()

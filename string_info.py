@@ -16,4 +16,4 @@ def string_info():
     adorno= f"***{palabra}***"
     print(f"Decorada: {adorno}")
 
-string_info()
+#string_info()

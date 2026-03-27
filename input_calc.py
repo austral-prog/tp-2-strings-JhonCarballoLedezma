@@ -14,4 +14,4 @@ def rectangle():
     print(f"Perimetro: {perimetro}")
 
 
-rectangle()
+#rectangle()

@@ -48,4 +48,4 @@ def string_methods():
     print(line_3)
 
 
-string_methods()
+#string_methods()
