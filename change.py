@@ -22,7 +22,7 @@ def change():
     print(centavos)
     '''
     gasto = float(input ("ingrese el gasto:"))
-    mensaje_1 = f"Ingresar gasto: \n{gasto}"
+    mensaje_1 = f"Ingresar gasto:\n{gasto}"
     dinero_recibido = int(input("ingrese el dinero recibido: "))
     mensaje_2 = f"Dinero recibido\n{dinero_recibido}"
     vuelto = dinero_recibido - gasto
