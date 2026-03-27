@@ -27,7 +27,7 @@ def change():
     mensaje_2 = f"Dinero recibido\n{dinero_recibido}"
     vuelto = dinero_recibido - gasto
     pesos = int(vuelto)
-    mensaje_3 = f"pesos:\n{pesos}"
+    mensaje_3 = f"Pesos:\n{pesos}"
     centavos = round ((vuelto - pesos) * 100)
     mensaje_4 = f"Centavos:\n{centavos}"
     
